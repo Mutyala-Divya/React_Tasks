@@ -1,0 +1,13 @@
+.output{
+  padding: 10px 70px;
+  height: 60px;
+  width:320px;
+  background-color:black;
+  color:#fff;
+  font-size: 25px;
+  text-align: end;
+}
+button{
+  height:80px ;
+  width: 116px;
+}
